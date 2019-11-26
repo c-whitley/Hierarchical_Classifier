@@ -1,1 +1,1 @@
-# Hierarchichal_Classifier
+# Hierarchical_Classifier
